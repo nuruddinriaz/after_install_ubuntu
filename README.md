@@ -1,7 +1,7 @@
 # :house: After install `Ubuntu` you need to do works below...
 
 ## Update apt sources and install software below...
-go to terminal > (for all of bwlow)
+go to terminal > (for all of below)
 1. `sudo apt-get update`
 2. `sudo apt-get install git`
 3. `sudo apt-get install zsh`
