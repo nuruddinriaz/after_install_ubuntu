@@ -35,6 +35,18 @@ go to terminal > (for all of below)
 4. Install Sublime Text
 `sudo apt-get install sublime-text`
 
+### To see sublime-text `installed packages`
+
+`Preferences -> Package Control -> List Packages` or `1. Ctrl+Shift+P
+2. Type Package Control: Remove Package
+3. You see the list of all packages installed`
+
+## To install `node.js`...
+`sudo apt-get install node.js`
+
+## To install `npm`...
+`sudo apt-get install npm`
+
 # To install xampp on ubuntu...
 1. Go to the directory where you saved .run file.
 2. `sudo chmod +x xampp-linux-x64-7.2.0-0-installer.run`
@@ -49,8 +61,8 @@ go to terminal > (for all of below)
 <hr/>
 
 ### I'm Nuruddin Riaz
-
-E-mail: nuruddinriaz@gmail.com
+* Mobile: 01814-485 428
+* E-mail: nuruddinriaz@gmail.com
 
 * [GitHub](https://github.com/nuruddinriaz)
 * [LinkedIn](https://www.linkedin.com/in/nuruddin-riaz-a59960155/)
