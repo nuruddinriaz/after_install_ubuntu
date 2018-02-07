@@ -35,6 +35,12 @@ go to terminal > (for all of below)
 4. Install Sublime Text
 `sudo apt-get install sublime-text`
 
+### To `installe packages` for sublime-text
+`1. Ctrl+Shift+P 2. Type Package Control: Install package 3. Write package name 4. Press Enter` 
+~~~
+Necessary packages are (1) 1337 Color Scheme (2) Emmet.
+~~~
+
 ### To see sublime-text `installed packages`
 
 `Preferences -> Package Control -> List Packages` or `1. Ctrl+Shift+P
@@ -47,8 +53,8 @@ go to terminal > (for all of below)
 ## To install `npm`...
 `sudo apt-get install npm`
 
-# To install xampp on ubuntu...
-1. Go to the directory where you saved .run file.
+# To install xampp in ubuntu...
+1. `Go to the directory where you saved .run file.`
 2. `sudo chmod +x xampp-linux-x64-7.2.0-0-installer.run`
 3. `sudo ./xampp-linux-x64-7.2.0-0-installer.run`
 
@@ -57,6 +63,7 @@ go to terminal > (for all of below)
 
 ## To create a mini-server...
 `php -S localhost:2018`
+`Here 2018 could be any 4 digit.`
 
 <hr/>
 
